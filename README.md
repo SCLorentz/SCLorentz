@@ -1,5 +1,4 @@
-# My name is Felipe S.C. Lorentz.
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=30&letterSpacing=10px&duration=20000&pause=1000&color=30F71C&center=false&random=true&width=435&lines=Hello‎!)](https://git.io/typing-svg)
+# My name is S.C. Lorentz.
 <!--<div id="header">
   <img src="https://komarev.com/ghpvc/?username=SCLorentz&style=for-the-badge&color=blue" alt=""/>
 </div>-->
