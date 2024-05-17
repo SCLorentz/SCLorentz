@@ -7,4 +7,9 @@
 - 🌱 I'm currently learning C.
 - 💬 Ask me about web development (front-end or back-end) and Deno.js.
 
-![Felipe S.C. Lorentz GitHub stats](https://github-readme-stats.vercel.app/api?username=SCLorentz&show_icons=true&theme=github_dark)                           ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.215&layout=compact&theme=github_dark)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=github_dark&hide=contribs&show_icons=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=github_dark&layout=compact" />
+</a>
