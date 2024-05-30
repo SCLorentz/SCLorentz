@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Felipe.
+# 👋 Hi, my name is Felipe S.C. Lorentz.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SCLorentz&theme=onedark)](https://github-profile-trophy.vercel.app/?username=SCLorentz)
 
