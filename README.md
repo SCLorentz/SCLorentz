@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Felipe S.C. Lorentz.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SCLorentz&theme=onedark)](https://github-profile-trophy.vercel.app/?username=SCLorentz)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SCLorentz&theme=onedark)]
 
 - 🔭 I'm currently working on my high-level programming language using JavaScript and Bun with my best friend, Vilém.
 - 👯 I'm looking to collaborate on whatever project that involves developing an app or website.
