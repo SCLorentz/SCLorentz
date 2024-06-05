@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning C.
 - 💬 Ask me about web development (front-end or back-end) and Deno.js.
 
-<picture>
+<!--<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=github_dark&hide=contribs&show_icons=true"
     media="(prefers-color-scheme: dark)"
@@ -20,9 +20,9 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=github_dark&hide=contribs&show_icons=true" />
-</picture>
+</picture>-->
 
-<picture>
+<!--<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=github_dark&layout=compact&langs_count=8"
     media="(prefers-color-scheme: dark)"
@@ -32,4 +32,6 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=github_dark&layout=compact&hide_border=true&count_private=true" />
-</picture>
+</picture>-->
+
+![SCLorentz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) ![SCLorentz's Stats](https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
