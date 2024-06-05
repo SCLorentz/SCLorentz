@@ -34,4 +34,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=github_dark&layout=compact&hide_border=true&count_private=true" />
 </picture>-->
 
-![SCLorentz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8) ![SCLorentz's Stats](https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![SCLorentz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=vue-dark&size_weight=0.223&show_icons=true&hide_border=true&layout=compact&langs_count=8) ![SCLorentz's Stats](https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
