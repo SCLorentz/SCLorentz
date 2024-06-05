@@ -28,8 +28,8 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223k&layout=compact&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223k&layout=compact&langs_count=8&hide_border=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=github_dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=github_dark&layout=compact&hide_border=true&count_private=true" />
 </picture>
