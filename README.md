@@ -36,4 +36,4 @@
 
 <!--&size_weight=0.223-->
 
-![SCLorentz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8) ![SCLorentz's Stats](https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![SCLorentz's Top Languages](https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8) ![SCLorentz's Stats](https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
