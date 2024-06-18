@@ -1,7 +1,7 @@
 # 👋 Hi, my name is Felipe S.C. Lorentz.
-<div id="header">
+<!--<div id="header">
   <img src="https://komarev.com/ghpvc/?username=SCLorentz&style=for-the-badge&color=blue" alt=""/>
-</div>
+</div>-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SCLorentz&theme=onedark&hide_border=true)](https://github-profile-trophy.vercel.app/?username=SCLorentz&theme=onedark)
 
