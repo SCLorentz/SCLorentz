@@ -14,30 +14,29 @@
 - 🌱 I'm currently learning Rust.
 - 💬 Ask me about web development (front-end or back-end) and Deno.js.
 
-<!--<picture>
+<picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=github_dark&hide=contribs&show_icons=true"
+    srcset="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8&text_color=fff"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SCLorentz&hide=contribs&show_icons=true"
+    srcset="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8&text_color=000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=github_dark&hide=contribs&show_icons=true" />
-</picture>-->
+  <img src="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8&text_color=fff" />
+</picture>
 
-<!--<picture>
+<!--stats-->
+<picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=github_dark&layout=compact&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&count_private=true&text_color=fff"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223k&layout=compact&langs_count=8&hide_border=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&count_private=true&text_color=000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=github_dark&layout=compact&hide_border=true&count_private=true" />
-</picture>-->
+  <img src="https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&count_private=true&text_color=fff" />
+</picture>
 
 <!--&size_weight=0.223-->
-
-![SCLorentz's Top Languages](https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8&text_color=ff59ff) ![SCLorentz's Stats](https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&count_private=true&text_color=ff59ff)
