@@ -3,7 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=SCLorentz&style=for-the-badge&color=blue" alt=""/>
 </div>-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SCLorentz&theme=onedark&hide_border=true&no-bg=true)](https://github-profile-trophy.vercel.app/?username=SCLorentz&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SCLorentz&theme=onedark&hide_border=true&no-bg=true&no-frame=true)](https://github-profile-trophy.vercel.app/?username=SCLorentz&theme=onedark)
+
+<hr>
 
 - 🔭 I'm currently working on my high-level programming language using JavaScript and Bun with my best friend, Vilém.
 - 👯 I'm looking to collaborate on whatever project that involves developing an app or website.
