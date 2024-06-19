@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on my high-level programming language using JavaScript and Bun with my best friend, Vilém.
 - 👯 I'm looking to collaborate on whatever project that involves developing an app or website.
-- 🌱 I'm currently learning C.
+- 🌱 I'm currently learning Rust.
 - 💬 Ask me about web development (front-end or back-end) and Deno.js.
 
 <!--<picture>
