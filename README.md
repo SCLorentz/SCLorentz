@@ -40,4 +40,4 @@
 
 <!--&size_weight=0.223-->
 
-![SCLorentz's Top Languages](https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8&text_color=ff59ff) ![SCLorentz's Stats](https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&count_private=true&text_color=ff59ff)
+![SCLorentz's Top Languages](https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8&text_color=fff) ![SCLorentz's Stats](https://github-readme-stats.vercel.app/api?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&count_private=true&text_color=fff)
