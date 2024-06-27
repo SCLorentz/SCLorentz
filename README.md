@@ -9,10 +9,10 @@
 
 <hr>
 
-- 🔭 I'm currently working on my high-level programming language.
-- 👯 I'm looking to collaborate on whatever project that involves developing an app or website.
+- 🔭 I'm currently working on develop my own high-level programming language.
+<!-- - 👯 I'm looking to collaborate on whatever project that involves developing an app or website.-->
 - 🌱 I'm currently learning Rust.
-- 💬 Ask me about web development (front-end or back-end) and Deno.js.
+<!-- - 💬 Ask me about web development (front-end or back-end) and Deno.js.-->
 
 <picture>
   <source
