@@ -17,14 +17,14 @@
 
 <picture>
   <source
-    srcset="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&hide=html"
+    srcset="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=6&text_color=fff"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=6&text_color=000&hide=html"
+    srcset="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=6&text_color=000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&hide=html" />
+  <img src="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=6&text_color=fff" />
 </picture>
 
 <!--stats-->
