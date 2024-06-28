@@ -1,9 +1,0 @@
-<!-- sample rectangle -->
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
-  <g transform="translate(300, 0) rotate(20)">
-    <foreignObject x="10" y="10" width="800" height="800">
-      <body xmlns="http://www.w3.org/1999/xhtml">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/qiOtinFFfk8?si=nY5au_gormod6QSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>      </body>
-    </foreignObject>
-  </g>
-</svg>
