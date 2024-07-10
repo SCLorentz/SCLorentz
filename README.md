@@ -25,6 +25,10 @@
 <!-- - 💬 Ask me about web development (front-end or back-end) and Deno.js.-->
 - 💾 I'm always looking for new technologies.
 
+![https://github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com/?user=sclorentz&theme=transparent&hide_border=true)
+
+<hr>
+
 <picture>
   <source
     srcset="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&size_weight=0.223&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&exclude_repo=all-chat-versions"
