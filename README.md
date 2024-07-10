@@ -25,6 +25,8 @@
 <!-- - 💬 Ask me about web development (front-end or back-end) and Deno.js.-->
 - 💾 I'm always looking for new technologies.
 
+- 💡 Trying to work hard and do my best
+
 ![https://github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com/?user=sclorentz&theme=transparent&hide_border=true)
 
 <hr>
