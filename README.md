@@ -7,14 +7,14 @@
 
 <picture>
   <source
-    srcset="https://github-trophies.vercel.app/?username=sclorentz&no-bg=true&row=1&column=9&no-frame=true&theme=onestar"
+    srcset="https://github-profile-trophy.vercel.app/?username=sclorentz&no-bg=true&theme=gitdimmed&no-frame=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-trophies.vercel.app/?username=sclorentz&no-bg=true&row=1&column=9&no-frame=true"
+    srcset="https://github-profile-trophy.vercel.app/?username=sclorentz&no-bg=true&no-frame=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-trophies.vercel.app/?username=sclorentz&no-bg=true&row=1&column=9&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sclorentz&no-bg=true&no-frame=true" />
 </picture>
 
 <hr>
