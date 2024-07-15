@@ -27,6 +27,8 @@
 
 - 💡 Trying to work hard and do my best
 
+- ❤️ Today, as a teenager, I think that I want to do this for the rest of my life
+
 ![https://github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com/?user=sclorentz&theme=transparent&hide_border=true)
 
 <hr>
