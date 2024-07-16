@@ -42,7 +42,7 @@
     srcset="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&size_weight=0.223&layout=compact&langs_count=6&text_color=000&exclude_repo=all-chat-versions"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz3&theme=transparent&show_icons=true&hide_border=true&size_weight=0.223&layout=compact&langs_count=6&text_color=fff&exclude_repo=all-chat-versions" />
+  <img src="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&size_weight=0.223&layout=compact&langs_count=6&text_color=fff&exclude_repo=all-chat-versions" />
 </picture>
 <!--&size_weight=0.223-->
 
