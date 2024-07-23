@@ -68,5 +68,4 @@ Uhhh... something unexpected happend here
 <!--estou viajando e não tem Internet aqui-->
 
 
-<!--look, idk why this is happening this time, but I didn't delete any repo. This day, I did some contribuitions
-(they ware saved in the wayback machine, web archive), but github now just deleted my contributions-->
+<!--sometimes github tries to #### me, is microsoft's fault, I'm shure-->
