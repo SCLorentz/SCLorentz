@@ -66,3 +66,7 @@ Uhhh... something unexpected happend here
 
 <!--&size_weight=0.223-->
 <!--estou viajando e não tem Internet aqui-->
+
+
+<!--look, idk why this is happening this time, but I didn't delete any repo. This day, I did some contribuitions
+(they ware saved in the wayback machine, web archive), but github now just deleted my contributions-->
