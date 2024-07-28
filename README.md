@@ -61,4 +61,3 @@
 <br />* includes my private repositories
 
 <!--&size_weight=0.223-->
-Eu perdi a minha streak pq o cazzo do github tá doido e acha q é dia 28. N é dia 28 nem aqui na FL, nem no Brasil pqp
