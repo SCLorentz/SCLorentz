@@ -68,4 +68,4 @@ Uhhh... something unexpected happend here
 <!--estou viajando e não tem Internet aqui-->
 
 
-<!--I hate microsoft-->
+<!--just look on 'https://web.archive.org/web/20240918204730/github.com/sclorentz#expand'-->
