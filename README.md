@@ -68,4 +68,4 @@ Uhhh... something unexpected happend here
 <!--estou viajando e não tem Internet aqui-->
 
 
-<!--just look on 'https://web.archive.org/web/20240918204730/github.com/sclorentz#expand'-->
+<!--and don't trust them, I should use gitlab more-->
