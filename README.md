@@ -68,5 +68,4 @@ Uhhh... something unexpected happend here
 <!--estou viajando e não tem Internet aqui-->
 
 
-<!--and if you say that is cheating, I will ##### #### #### ######, ##### #### ##########, #### #### ######## and finaly ##### ### ## ### ####-->
-<!--I'm just marking what I have done and was erased-->
+<!--I'm realy "puto" about this-->
