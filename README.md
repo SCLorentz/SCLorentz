@@ -68,4 +68,4 @@ Uhhh... something unexpected happend here
 <!--estou viajando e não tem Internet aqui-->
 
 
-<!--I'm realy "puto" about this, search about this on the google translator (pt-br to en-us)-->
+<!--I had 878 contributions and now I have only 700, f$ck you github, fu$$k you microsoft-->
