@@ -68,4 +68,4 @@ Uhhh... something unexpected happend here
 <!--estou viajando e não tem Internet aqui-->
 
 
-<!--I'm realy "puto" about this-->
+<!--I'm realy "puto" about this, search about this on the google translator (pt-br to en-us)-->
