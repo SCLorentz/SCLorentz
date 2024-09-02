@@ -68,4 +68,4 @@ Uhhh... something unexpected happend here
 <!--estou viajando e não tem Internet aqui-->
 
 
-<!--I had 878 contributions and now I have only 700, f$ck you github, fu$$k you microsoft-->
+<!--I %%%% %%%, and now I will have less to %%%%% on %%% face, and it's all fault of microsoft, always is-->
