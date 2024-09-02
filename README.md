@@ -67,4 +67,4 @@ Uhhh... something unexpected happend here
 <!--&size_weight=0.223-->
 <!--estou viajando e não tem Internet aqui-->
 
-<!--that will be on my history forever.....-->
+<!--at least I have the wayback machine to show that I realy did something that day-->
