@@ -67,5 +67,4 @@ Uhhh... something unexpected happend here
 <!--&size_weight=0.223-->
 <!--estou viajando e não tem Internet aqui-->
 
-
-<!--I %%%% %%%, and now I will have less to %%%%% on %%% face, and it's all fault of microsoft, always is-->
+<!--that will be on my history forever...-->
