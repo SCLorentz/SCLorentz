@@ -62,4 +62,4 @@
 <!--![ok](https://sclorentz-readme-stats.vercel.app/api?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&count_private=true&text_color=fff&show=discussions_started&hide=contribs)-->
 
 <!--&size_weight=0.223-->
-<!-- q porra?!-->
+<!--estou viajando e não tem Internet aqui-->
