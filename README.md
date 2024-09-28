@@ -19,15 +19,6 @@
 
 <hr>
 
-<!--- 🔭 I'm currently working on develop my *own* high-level programming language.--> <!--it's still beeing developed, but I don't want to make it clear-->
-<!-- - 👯 I'm looking to collaborate on whatever project that involves developing an app or website.-->
-<!--- 🌱 I'm currently learning Rust.-->
-<!-- - 💬 Ask me about web development (front-end or back-end) and Deno.js.-->
-<!--- 💾 I'm always looking for new technologies.-->
-<!--- ❤️ Today, as a teenager, I think that I want to do this for the rest of my life-->
-*7 42 52 59 137*
-
-
 ![https://github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com/?user=sclorentz&theme=transparent&hide_border=true)
 <!--![https://streak-stats.demolab.com](https://streak-stats.demolab.com/?user=sclorentz&theme=transparent&hide_border=true)-->
 
