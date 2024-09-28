@@ -34,7 +34,8 @@
 
 <hr>
 
-<picture>
+Uhhh... something unexpected happend here
+<!--<picture>
   <source
     srcset="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&exclude_repo=sclorentz-readme-stats,all-chat-versions&size_weight=0.5&count_weight=0.5"
     media="(prefers-color-scheme: dark)"
@@ -44,7 +45,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&exclude_repo=sclorentz-readme-stats,all-chat-versions&size_weight=0.5&count_weight=0.5" />
-</picture>
+</picture>-->
 <!--&size_weight=0.223-->
 
 <!--stats-->
