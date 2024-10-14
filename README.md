@@ -24,7 +24,7 @@
 
 <hr>
 
-includes my private repositories:
+(this statistics includes private repositories)
 
 <picture>
   <source
