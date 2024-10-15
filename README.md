@@ -22,10 +22,6 @@
 ![https://github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com/?user=sclorentz&theme=transparent&hide_border=true)
 <!--![https://streak-stats.demolab.com](https://streak-stats.demolab.com/?user=sclorentz&theme=transparent&hide_border=true)-->
 
-<hr>
-
-(this statistics includes private repositories)
-
 <picture>
   <source
     src="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&exclude_repo=sclorentz-readme-stats,all-chat-versions&size_weight=0.5&count_weight=0.5"
@@ -51,5 +47,7 @@
   <img src="https://sclorentz-readme-stats.vercel.app/api?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&count_private=true&text_color=fff" />
 </picture>
 <br />
+
+*this statistics includes private repositories
 
 <!--![ok](https://sclorentz-readme-stats.vercel.app/api?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&count_private=true&text_color=fff&show=discussions_started&hide=contribs)-->
