@@ -1,4 +1,4 @@
-# My name is S.C. Lorentz.
+# 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗦.𝗖. 𝗟𝗼𝗿𝗲𝗻𝘁𝘇
 <!--<div id="header">
   <img src="https://komarev.com/ghpvc/?username=SCLorentz&style=for-the-badge&color=blue" alt=""/>
 </div>-->
