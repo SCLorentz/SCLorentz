@@ -19,7 +19,7 @@
 
 <hr>
 
-![https://github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com/?user=sclorentz&theme=transparent&hide_border=true)
+<!--![https://github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com/?user=sclorentz&theme=transparent&hide_border=true)-->
 <!--![https://streak-stats.demolab.com](https://streak-stats.demolab.com/?user=sclorentz&theme=transparent&hide_border=true)-->
 
 <picture>
