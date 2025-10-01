@@ -37,14 +37,14 @@
 
 <picture>
   <source
-    src="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&exclude_repo=sclorentz-readme-stats,all-chat-versions&size_weight=0.5&count_weight=0.5&hide=svelte,mathematica,html,css"
+    src="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=10&text_color=fff&exclude_repo=sclorentz-readme-stats,all-chat-versions&size_weight=0.7&count_weight=0.3&hide=svelte,mathematica,html,css,dockerfile,meson,pkl,linker%20script,makefile"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    src="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8&text_color=000&exclude_repo=sclorentz-readme-stats,all-chat-versions&size_weight=0.5&count_weight=0.5&hide=svelte,mathematica,html,css"
+    src="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=10&text_color=000&exclude_repo=sclorentz-readme-stats,all-chat-versions&size_weight=0.7&count_weight=0.3&hide=svelte,mathematica,html,css,dockerfile,meson,pkl,linker%20script,makefile"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&exclude_repo=sclorentz-readme-stats,all-chat-versions&size_weight=0.5&count_weight=0.5&hide=svelte,mathematica,html,css" />
+  <img src="https://sclorentz-readme-stats.vercel.app/api/top-langs/?username=SCLorentz&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=10&text_color=fff&exclude_repo=sclorentz-readme-stats,all-chat-versions&size_weight=0.7&count_weight=0.3&hide=svelte,mathematica,html,css,dockerfile,meson,pkl,linker%20script,makefile" />
 </picture>
 
 <!--stats-->
