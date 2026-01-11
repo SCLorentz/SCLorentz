@@ -1,7 +1,4 @@
-# ☆ SCLorentz
-<div id="header">
-  <img src="https://komarev.com/ghpvc/?username=SCLorentz&style=for-the-badge&color=blue" alt=""/>
-</div>
+# S.C. Lorentz
 
 <!--## What I use
 
@@ -11,9 +8,17 @@
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)-->
 
+_"Most of the good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program"_
+
+\- Linus Torvalds
+
 ### Social Media
 
 <a title="sclorentz" href="https://gitlab.com/SCLorentz"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a><a title="sclorentz" href="https://discordapp.com/users/sclorentz"><img alt="discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a><a title="r/sclorentz" href="https://www.reddit.com/user/SCLorentz/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a><a title="sclorentz" href="https://www.instagram.com/sclorentz/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a><a title="sclorentz" href="https://open.spotify.com/user/31gjwchaqorfh4ceneh2niyhxtg4"><img alt="spotify" src="https://img.shields.io/badge/Spotify-222222?style=for-the-badge&logo=Spotify&logoColor=1ED760"></a><a title="sclorentz" href="https://www.patreon.com/cw/SCLorentz"><img src="https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=Patreon&logoColor=FFFFFF"></a>
+
+<div id="header">
+  <img src="https://komarev.com/ghpvc/?username=SCLorentz&style=for-the-badge&color=blue" alt=""/>
+</div>
 
 <!-- ---
 
