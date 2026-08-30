@@ -1,16 +1,6 @@
+<img width="1024" height="290" alt="banner_sleek" src="https://github.com/user-attachments/assets/fb7d86b4-8d9e-43bf-bb79-75ee0174fbe9" />
+
 # S.C. Lorentz
-
-<!--## What I use
-
-![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![apple silicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### Learning
-
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)-->
-
-_"Most of the good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program"_
-
-\- Linus Torvalds
 
 <!--<a title="sclorentz" href="https://gitlab.com/SCLorentz"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>-->
 <a title="r/sclorentz" href="https://www.reddit.com/user/SCLorentz/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a><a title="sclorentz" href="https://www.instagram.com/sclorentz/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
